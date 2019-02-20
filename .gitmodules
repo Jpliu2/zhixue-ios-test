@@ -1,0 +1,3 @@
+[submodule "moduleProject"]
+	path = moduleProject
+	url = https://github.com/Jpliu2/moduleProject.git
